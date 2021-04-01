@@ -31,5 +31,4 @@ def circle(growth_rate, num_list, labels, total_outcome):
 
     return fig_circle
 
-""" if __name__=='__main__':
-    circle() """
+
